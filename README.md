@@ -1,2 +1,2 @@
-# Concurrent_prog_Test_1
+# Concurrent_programming
 Concurrent Programming Tutorial
