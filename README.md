@@ -1,2 +1,2 @@
-# Concurrent_prog_Test_1
-Concurrent Programming Tutorial
+# Concurrent_programming
+All projects and labs for the subject Concurrent Programming are attached here.
